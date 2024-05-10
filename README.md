@@ -1,4 +1,5 @@
 # Fix-VMWare-build-failure
+causes system isnatbility and freeze but build is successful
 ```
 #!/bin/sh
 
